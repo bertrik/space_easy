@@ -1,2 +1,2 @@
 # space_easy
-Reverse engineering of a 'homeeasy' remote controlled power socket
+Reverse engineering of a 'Home Easy' remote controlled power socket
